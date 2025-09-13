@@ -1,0 +1,22 @@
+# 工具演示所需的Python库
+
+# 网页抓取
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# PDF生成
+reportlab==4.0.4
+pypdf==3.16.0
+
+# 数据处理
+pandas==2.1.0
+numpy==1.25.2
+
+# Web框架（可选，用于构建API）
+flask==3.0.0
+fastapi==0.103.0
+
+# 自动化工具
+selenium==4.12.0  # 用于动态网页抓取
+playwright==1.37.0  # 另一个自动化工具选项
